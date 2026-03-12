@@ -1,0 +1,19 @@
+{
+  "name": "pixar-storytelling-rules",
+  "owner": {
+    "name": "Chris Yuan",
+    "email": "chris.yuan@0x0.tw"
+  },
+  "metadata": {
+    "description": "Pixar 22 條說故事法則 — Claude Code 創作輔助插件",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "pixar-storytelling-rules",
+      "source": ".",
+      "description": "基於 Pixar 22 條說故事法則的創作輔助技能。適用於故事創作、小說寫作、劇本構思、角色設計、narrative 設計。",
+      "version": "1.0.0"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pixar-storytelling-rules",
+  "version": "1.0.0",
+  "description": "基於 Pixar 22 條說故事法則的創作輔助技能。適用於故事創作、小說寫作、劇本構思、角色設計、narrative 設計，提供創作指引與審稿回饋框架。",
+  "author": {
+    "name": "shyuan"
+  },
+  "repository": "https://github.com/shyuan/pixar-storytelling-rules",
+  "license": "MIT",
+  "keywords": ["pixar", "storytelling", "writing", "narrative", "character-design", "plot", "zh-tw"]
+}
