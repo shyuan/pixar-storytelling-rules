@@ -9,18 +9,17 @@
 
 ## 安裝
 
-### 透過 Marketplace
+### 透過 Marketplace（推薦）
 
+```bash
+/plugin marketplace add shyuan/shyuan-marketplace
+/plugin install pixar-storytelling-rules@shyuan-marketplace
 ```
-claude install shyuan/shyuan-marketplace
-```
-
-然後選擇 `pixar-storytelling-rules`。
 
 ### 直接安裝
 
-```
-claude install shyuan/pixar-storytelling-rules
+```bash
+/plugin install shyuan/pixar-storytelling-rules
 ```
 
 ## 使用方式
