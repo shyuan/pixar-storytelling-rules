@@ -5,6 +5,8 @@ description: >
   Triggers on keywords: 寫故事、小說、劇本、故事結構、角色塑造、情節設計、narrative、story、plot、character arc.
   Also use when reviewing story drafts or helping break through creative blocks.
   Applies to any narrative creation request, even without explicitly mentioning Pixar.
+argument-hint: "[故事草稿或創作問題]"
+allowed-tools: Read
 ---
 
 # Pixar 說故事 22 法則
