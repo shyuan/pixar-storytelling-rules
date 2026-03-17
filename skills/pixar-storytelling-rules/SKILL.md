@@ -1,6 +1,10 @@
 ---
 name: pixar-storytelling-rules
-description: 基於 Pixar 22 條說故事法則的創作輔助技能。在使用者進行故事創作、小說寫作、劇本構思、角色設計、narrative 設計時，用這組法則作為創作指引或審稿回饋框架。當使用者提到「寫故事」、「小說」、「劇本」、「故事結構」、「角色塑造」、「情節設計」、「narrative」、「story」、「plot」、「character arc」等關鍵詞，或是請你 review 一段故事草稿、幫忙突破創作瓶頸時，都應該觸發這個技能。即使使用者沒有明確提到 Pixar，只要涉及敘事創作相關的請求，都適用。
+description: >
+  Use when the user is writing stories, novels, screenplays, or designing narratives and characters.
+  Triggers on keywords: 寫故事、小說、劇本、故事結構、角色塑造、情節設計、narrative、story、plot、character arc.
+  Also use when reviewing story drafts or helping break through creative blocks.
+  Applies to any narrative creation request, even without explicitly mentioning Pixar.
 ---
 
 # Pixar 說故事 22 法則
