@@ -31,6 +31,16 @@
 - 「我寫到一半卡住了，不知道接下來怎麼發展」
 - 「幫我檢查這個角色的動機是否合理」
 
+## 評估結果
+
+Skill 經過量化對照測試（with-skill vs. baseline，5 個測試 case，28 條 assertion）：
+
+| 指標 | With Skill | Without Skill |
+|---|---|---|
+| Pass Rate | **100%** | 57.2% |
+
+詳細方法、測試 case、各案對照與關鍵發現，見 [BENCHMARK.md](BENCHMARK.md)。
+
 ## 22 條法則總覽
 
 | 分類 | 法則 |
