@@ -40,6 +40,14 @@
 | 創作心態 | #2 觀眾視角優先、#3 主題在結尾才現身、#5 簡化聚焦合併、#8 完成比完美重要、#9 卡住時的反向清單、#11 寫下來才能開始修、#12 捨棄前幾個直覺、#17 沒有白費的功夫、#18 分辨打磨與瞎忙、#20 拆解你討厭的電影 |
 | 自我認知 | #10 拆解你喜歡的故事、#14 為什麼非說這個故事不可、#22 故事的最精簡核心 |
 
+## 參考來源
+
+本 plugin 的內容主要參考自以下三篇文章：
+
+- [Pixar's 22 Rules of Storytelling](https://www.aerogrammestudio.com/2013/03/07/pixars-22-rules-of-storytelling/) — Emma Coats 分享的 22 條法則完整列表
+- [The Story Spine: Pixar's 4th Rule of Storytelling](https://www.aerogrammestudio.com/2013/03/22/the-story-spine-pixars-4th-rule-of-storytelling/) — Story Spine 八拍結構詳解，含綠野仙蹤拆解範例
+- [Back to the Story Spine](https://www.aerogrammestudio.com/2013/06/05/back-to-the-story-spine/) — Kenn Adams 親自說明 Story Spine 的本意與常見變體的失準之處，含超人特攻隊拆解範例
+
 ## License
 
 MIT
